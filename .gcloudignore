@@ -1,0 +1,19 @@
+.gcloudignore
+
+.git
+
+.gitignore
+
+# Docker 관련 임시 파일 제외
+
+.docker/
+
+# 노드 모듈 및 빌드 결과물 제외
+
+node_modules/
+
+dist/
+
+# 기타
+
+.env
