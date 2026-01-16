@@ -1,4 +1,7 @@
-# CleanGuide MCP Server (쓰레기 분리배출 안내)
+# 분리배출 가이드 MCP Server (쓰레기 분리배출 안내)
+
+<img width="128" height="128" alt="recycle-guid-mcp-main-image" src="https://github.com/user-attachments/assets/c419cd17-4cf6-4621-a608-6967870e3510" />
+
 
 카카오 MCP 공모전 출품용으로 제작된 **쓰레기 분리배출 안내 MCP 서버**입니다.
 사용자가 자연어로 쓰레기 배출 방법을 물어보면, 공공데이터 기반의 정확한 분리배출 요령을 안내합니다.
